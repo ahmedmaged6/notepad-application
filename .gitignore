@@ -1,0 +1,31 @@
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+.vs/
+*.user
+*.suo
+*.log
+
+# Ignore build results
+bin/
+obj/
+
+# Ignore compressed files
+*.zip
+
+# Ignore executables
+*.exe
+
+# Ignore setup files
+MegapadSetup/
+
+# Ignore publish folder
+publish/
+app.publish/
+
+# Include .vsconfig (useful for sharing configuration)
+!*.vsconfig
+
+# Ignore unnecessary system files
+Thumbs.db
+Desktop.ini
+
