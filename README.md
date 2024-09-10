@@ -28,5 +28,5 @@ The project was developed to improve my understanding and skills in:
 3. Build and run the project to launch the Notepad application.
 
 ## Screenshots
-[Notepad Screenshot](https://github.com/ahmedmaged6/notepad-application/tree/c8fc63f14ce01e248493973a0d289abcf7e90ea5/screenshots)
+[Notepad Screenshots](https://github.com/ahmedmaged6/notepad-application/tree/c8fc63f14ce01e248493973a0d289abcf7e90ea5/screenshots)
 
